@@ -1,5 +1,7 @@
 # Gravitee io
 
+Gravitee is an open-source, event-native API management platform that helps you design, deploy, manage, and secure synchronous and asynchronous APIs throughout the entire lifecycle.
+
 - [compose file v3.x](https://raw.githubusercontent.com/gravitee-io/gravitee-docker/master/apim/3.x/docker-compose.yml)
 
 - [installation guide](https://docs.gravitee.io/apim/3.x/apim_installation_guide_docker_compose_quickstart.html)
